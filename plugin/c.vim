@@ -8,7 +8,7 @@
 "                  See also help file csupport.txt .
 "
 "   GVIM Version:  7.0+
-"   sife
+"
 "  Configuration:  There are some personal details which should be configured
 "                   (see the files README.csupport and csupport.txt).
 "
